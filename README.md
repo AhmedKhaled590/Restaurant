@@ -4,7 +4,6 @@
 # 📸Demos
 
 <br/>
-<div align="center">
 <h2>Level One playing</h2> 
  <br/>
 [![Image from Gyazo](https://i.gyazo.com/a3fbcc5f08945007626667bb44063566.gif)](https://gyazo.com/a3fbcc5f08945007626667bb44063566)
